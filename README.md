@@ -28,5 +28,5 @@ and to experiment with different OpenAI models interactively.
 
 ---
 
-## 📂 Project Structure
+
 
